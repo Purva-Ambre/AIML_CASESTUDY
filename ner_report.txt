@@ -1,0 +1,20 @@
+CLINICAL MEDICATION NER - PROJECT REPORT
+======================================================================
+
+Total Clinical Notes Processed: 5
+Total Entities Extracted: 37
+
+Entity Type Distribution:
+entity_type
+DRUG         15
+FREQUENCY     7
+STRENGTH      6
+ROUTE         5
+DURATION      2
+FORM          2
+Name: count, dtype: int64
+
+Performance Metrics:
+Precision: 0.900
+Recall: 0.850
+F1 Score: 0.874

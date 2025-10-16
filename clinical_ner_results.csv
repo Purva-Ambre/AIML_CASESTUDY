@@ -1,0 +1,38 @@
+note_id,entity,entity_type,method
+1,Aspirin,DRUG,Rule-Based
+1,Atorvastatin,DRUG,Rule-Based
+1,Metoprolol,DRUG,Rule-Based
+1,mg,STRENGTH,Rule-Based
+1,"('twice', 'daily')",FREQUENCY,Rule-Based
+1,"('once', 'daily')",FREQUENCY,Rule-Based
+1,orally,ROUTE,Rule-Based
+1,PO,ROUTE,Rule-Based
+2,Metformin,DRUG,Rule-Based
+2,Lisinopril,DRUG,Rule-Based
+2,Glipizide,DRUG,Rule-Based
+2,mg,STRENGTH,Rule-Based
+2,"('twice', 'daily')",FREQUENCY,Rule-Based
+2,"('once', 'daily')",FREQUENCY,Rule-Based
+2,PO,ROUTE,Rule-Based
+3,Ibuprofen,DRUG,Rule-Based
+3,Amoxicillin,DRUG,Rule-Based
+3,Warfarin,DRUG,Rule-Based
+3,mg,STRENGTH,Rule-Based
+3,"('three times', 'daily')",FREQUENCY,Rule-Based
+3,days,DURATION,Rule-Based
+4,Albuterol,DRUG,Rule-Based
+4,Prednisone,DRUG,Rule-Based
+4,Tiotropium,DRUG,Rule-Based
+4,mg,STRENGTH,Rule-Based
+4,mcg,STRENGTH,Rule-Based
+4,"('once', 'daily')",FREQUENCY,Rule-Based
+4,inhalation,ROUTE,Rule-Based
+4,inhaler,ROUTE,Rule-Based
+4,days,DURATION,Rule-Based
+4,puffs,FORM,Rule-Based
+4,inhaler,FORM,Rule-Based
+5,Amlodipine,DRUG,Rule-Based
+5,Losartan,DRUG,Rule-Based
+5,Hydrochlorothiazide,DRUG,Rule-Based
+5,mg,STRENGTH,Rule-Based
+5,"('once', 'daily')",FREQUENCY,Rule-Based
